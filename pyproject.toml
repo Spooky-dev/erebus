@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "erebus"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Ebic discord bot"
+authors = ["Spooky <https://itsspooky.netlify.app/>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
